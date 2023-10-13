@@ -51,7 +51,7 @@ $extensionname
 )
 
  
-
+Install-Module -Name Az -Repository PSGallery -Force
  
 
 $abc=[guid]::NewGuid()
